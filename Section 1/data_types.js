@@ -13,4 +13,4 @@ let children; // Undefined data type. Empty value
 
 age = 55 // This is how you change the value in a variable 
 
-
+// Const variables cant be null or empty 
