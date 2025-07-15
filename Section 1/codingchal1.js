@@ -18,6 +18,6 @@ if (markBMI > jhonBMI) {
 }
 
 else {
-    console.log(`Jhons BMI ${jhonBMI.toFixed(2)} is higher than Marks ${markBMI.toFixed(2)}`)
+    console.log(`Johns BMI ${jhonBMI.toFixed(2)} is higher than Marks ${markBMI.toFixed(2)}`)
 }
 
